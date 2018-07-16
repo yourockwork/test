@@ -1,7 +1,4 @@
 <?php
-<<<<<<< HEAD
-    echo 'blog';
-=======
+echo 'blog';
 echo 'Hello';
 echo 'From Slave Branch';
->>>>>>> slave
